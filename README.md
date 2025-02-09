@@ -20,9 +20,11 @@ cd leetcode-sql-50days-solutions
 3. Open and explore the solutions.
 
 🤝 Contributions
+
 Contributions are welcome! If you have optimized solutions or better approaches, feel free to submit a pull request.
 
 📌 Contact
+
 For questions or discussions, open an issue in the repository.
 
 Happy coding! 🚀
